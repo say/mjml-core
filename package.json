@@ -1,5 +1,5 @@
 {
-  "name": "@asayinc/mjml-core",
+  "name": "mjml-core",
   "description": "mjml-core",
   "version": "4.12.0",
   "main": "lib/index.js",
